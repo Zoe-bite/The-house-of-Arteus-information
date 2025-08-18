@@ -44,7 +44,7 @@ h3   {
   
 </style>
 </head>
-
+  
 <body>
 <title>Introduction paragraph</title>
 
@@ -75,7 +75,16 @@ h3   {
     justify-content: center;    /* center the whole row */
     gap: 2rem;                  /* space between links */
   }
-  .links a { text-decoration: none; }  /*Removes underline on links*/
+  
+  .links a {
+    color: #630b01;
+    text-decoration: none; /*Removes underline on links*/
+  } 
+  
+  .links a:hover {
+      color: #611f73;              /* change color on hover */
+      text-decoration: underline; /* underline only on hover */
+  }
 </style>
   
   <h2 class="underline">Futher reading: </h2>
@@ -92,4 +101,5 @@ h3   {
   <img src="https://m.media-amazon.com/images/I/516XrvCbRSL._SY445_SX342_ControlCacheEqualizer_.jpg" alt="Thyestes" style="width:200px; height:auto;">
 </div>
   
+</body>
 </html>
