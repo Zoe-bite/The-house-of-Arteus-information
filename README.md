@@ -1,1 +1,1 @@
-The house of Arteus is a prominent family in Greek mythology known for ruling over the kingdom of Mycenae (Argos). They’re story is one of bloodshed, betrayal, rivalries, rape, incest and familicide, all tied together by a curse dating back to the first king of Siplyus.
+This page is about the house of Arteus, a prominent family in Greek mythology known for ruling over the kingdom of Mycenae (Argos).
